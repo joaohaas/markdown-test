@@ -1,27 +1,39 @@
 ```json5
 {
   // Comment
-  "a": 1
+  "foo": {
+    "bar": "abc",
+    "1": 2"
+  }
 }
 ```
 
 ```hjson
 {
   // Comment
-  "a": 1
+  "foo": {
+    "bar": "abc",
+    "1": 2"
+  }
 }
 ```
 
 ```json
 {
   // Comment
-  "a": 1
+  "foo": {
+    "bar": "abc",
+    "1": 2"
+  }
 }
 ```
 
 ```js
 {
   // Comment
-  "a": 1
+  "foo": {
+    "bar": "abc",
+    "1": 2"
+  }
 }
 ```
