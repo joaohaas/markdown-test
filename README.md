@@ -20,7 +20,6 @@
 
 ```json
 {
-  // Comment
   "foo": {
     "bar": "abc",
     "1": 2
